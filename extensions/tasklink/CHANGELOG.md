@@ -1,5 +1,9 @@
 # TaskLink Changelog
 
+## [Windows Support] - {PR_MERGE_DATE}
+
+- Add Microsoft Windows support
+
 ## [Fixes & updates] - 2025-07-11
 
 - Fix an issue with multiline strings in HTML (#20324)
