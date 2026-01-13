@@ -1,6 +1,6 @@
 # TaskLink Changelog
 
-## [Windows Support] - {PR_MERGE_DATE}
+## [Windows Support] - 2026-01-13
 
 - Add Windows platform support
 
